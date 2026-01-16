@@ -1,0 +1,16 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-27 20:18 IST
+Stats: 0:00:02 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 16.65% done; ETC: 20:18 (0:00:15 remaining)
+Stats: 0:00:05 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 63.25% done; ETC: 20:18 (0:00:03 remaining)
+Stats: 0:00:06 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 69.70% done; ETC: 20:18 (0:00:03 remaining)
+Nmap scan report for testphp.vulnweb.com (44.228.249.3)
+Host is up (0.018s latency).
+rDNS record for 44.228.249.3: 3.249.228.44.in-addr.arpa
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http?
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 67.20 seconds
